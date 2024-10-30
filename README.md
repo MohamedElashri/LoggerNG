@@ -1,4 +1,4 @@
-# Advanced Logger for C++ CLI Tools
+# LoggerNG: Advanced Logger for C++ programs
 
 An advanced, flexible, and memory-safe logging utility for C++ command-line interface (CLI) tools. This header-only library provides structured, categorized logging with multiple log levels, timestamping, ANSI color coding, asynchronous logging, and more.
 
