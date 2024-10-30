@@ -1,0 +1,21 @@
+{
+    "globalLogLevel": "DEBUG",
+    "outputs": [
+      {
+        "type": "console",
+        "logLevel": "INFO",
+        "timestampFormat": "%Y-%m-%d %H:%M:%S",
+        "outputFormat": "plain",
+        "useANSIColors": true
+      },
+      {
+        "type": "file",
+        "filePath": "server.log",
+        "logLevel": "DEBUG",
+        "timestampFormat": "%Y-%m-%d %H:%M:%S",
+        "outputFormat": "json",
+        "useANSIColors": false
+      }
+    ]
+  }
+  
